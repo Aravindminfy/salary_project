@@ -11,5 +11,9 @@
 ![image](https://github.com/user-attachments/assets/6ba631b8-35b6-4278-b681-7705a30f8fdb)
 # Evidently data drift report 
 ![image](https://github.com/user-attachments/assets/2c4aadfd-14d7-4cf5-9fac-75d2650539a6)
+
+# vscode 
+![image](https://github.com/user-attachments/assets/12c27207-3a55-448f-bc71-c820a08785a4)
+
 # flask
 ![Screenshot 2025-07-06 200332](https://github.com/user-attachments/assets/1c405baf-a325-459f-b1ae-588baf53525f)
